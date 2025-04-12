@@ -1,0 +1,13 @@
+base_url: "https://www.guvi.in/"
+login_url: "https://www.guvi.in/sign-in"
+signup_url: "https://www.guvi.in/register/"
+dashboard_url: "https://www.guvi.in/dashboard"
+expected_title: "GUVI | Learn to code in your native language"
+
+valid_user:
+  email: "balajivenkat132002@gmail.com"
+  password: "Balaji@13"
+
+invalid_user:
+  email: "invalid@guvi.in"
+  password: "WrongPass123"
